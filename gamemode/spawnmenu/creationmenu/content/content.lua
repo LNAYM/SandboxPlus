@@ -1,6 +1,5 @@
 
 include( "contenticon.lua" )
-include( "postprocessicon.lua" )
 
 include( "contentcontainer.lua" )
 include( "contentsidebar.lua" )
@@ -11,9 +10,6 @@ include( "contenttypes/weapons.lua" )
 include( "contenttypes/entities.lua" )
 include( "contenttypes/postprocess.lua" )
 include( "contenttypes/vehicles.lua" )
-
-include( "contenttypes/gameprops.lua" )
-include( "contenttypes/addonprops.lua" )
 
 local PANEL = {}
 
