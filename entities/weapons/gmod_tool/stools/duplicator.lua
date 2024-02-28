@@ -15,6 +15,7 @@ else
 
 end
 
+TOOL.AddToMenu = false
 TOOL.Category = "Construction"
 TOOL.Name = "#tool.duplicator.name"
 
