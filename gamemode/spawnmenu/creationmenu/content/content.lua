@@ -11,8 +11,6 @@ include( "contenttypes/weapons.lua" )
 include( "contenttypes/entities.lua" )
 include( "contenttypes/postprocess.lua" )
 include( "contenttypes/vehicles.lua" )
-include( "contenttypes/saves.lua" )
-include( "contenttypes/dupes.lua" )
 
 include( "contenttypes/gameprops.lua" )
 include( "contenttypes/addonprops.lua" )
